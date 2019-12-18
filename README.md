@@ -32,9 +32,14 @@ My prodest component of my game is the entire game, i've always wanted to make m
 https://youtu.be/DF7M4m-tdLI
 
 # Usefull Resources
-https://www.youtube.com/watch?v=ijSRJ3yrawQ&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-&index=6    \n
-https://www.youtube.com/watch?v=56pUTFSoESE&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-&index=5  \n
+object pooling
+https://www.youtube.com/watch?v=ijSRJ3yrawQ&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-&index=6  
 
+Destroying platforms
+https://www.youtube.com/watch?v=56pUTFSoESE&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-&index=5  
+
+Adding sound effects
+https://learn.unity.com/tutorial/sound-effects-scripting#
 
 
 
