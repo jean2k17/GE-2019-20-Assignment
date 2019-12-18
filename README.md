@@ -29,7 +29,6 @@ The game platforms were created and stored in an array, in order to constaly reu
 # Proudest component
 My prodest component of my game is the entire game, i've always wanted to make my own game and i was very proud to have been able to make one
 # view it on youtube
-https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg
-https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DF7M4m-tdLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
